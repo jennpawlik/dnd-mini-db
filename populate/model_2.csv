@@ -1,0 +1,633 @@
+"model_name","model_type","origin","set_number","set_number_variant","creature_name","creature_type_code","creature_subtype_code","creature_size","base_diameter_inches","num_owned"
+"Alhoon","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",33,,"Mind Flayer",1,50,"medium",1,1
+"Beholder","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",42,,"Beholder",1,47,"large",2,1
+"Berbalang","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",19,,"Berbalang",1,,"medium",1,3
+"Choker","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",12,,"Choker",1,,"small",0.75,2
+"Cloaker","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",26,,"Cloaker",1,,"large",2,2
+"Death Slaad","Wizkids Pre-painted","Icons of the Realms - Boneyard",21,,"Death Slaad",1,48,"medium",1,1
+"Dolgaunt","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",24,,"Dolgaunt",1,,"medium",1,1
+"Dolgrim","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",13,,"Dolgrim",1,,"medium",1,2
+"Dyrrn the Corruptor","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",40,,"Dyrrn",1,50,"medium",1,1
+"Gibbering Mouther","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",24,,"Gibbering Mouther",1,,"medium",1,1
+"Gnome Ceremorph","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",22,,"Gnome Ceremorph",1,50,"small",0.75,1
+"Intellect Devourer","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",8,,"Intellect Devourer",1,50,"tiny",0.75,1
+"Kalaraq Quori","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",36,,"Kalaraq Quori",1,,"medium",1,1
+"Otyugh","Wizkids Pre-painted","Icons of the Realms - Boneyard",25,,"Otyugh",1,,"large",2,2
+"Skittering Horror","Wizkids Pre-painted","Icons of the Realms - Boneyard",30,,"Skittering Horror",1,,"huge",3,2
+"Tsucora Quori","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",21,,"Tsucora Quori",1,,"medium",1,1
+"Woe Strider","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",40,,"Woe Strider",1,,"large",2,1
+"Allosaurus Version 1 No Rider","3D Printed Unpainted","Clynche - Jurassic Tribe",,,"Allosaurus",2,51,"large",2,1
+"Allosaurus Version 2 No Rider","3D Printed Unpainted","Clynche - Jurassic Tribe",,,"Allosaurus",2,51,"large",2,1
+"Almiraj","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",4,,"Almiraj",2,,"small",0.75,2
+"Arctic Fox","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",4,,"Arctic Fox",2,,"tiny",0.75,2
+"Aurochs","Wizkids Pre-painted","Icons of the Realms - Spell Effects Summoned Creatures 1",2,,"Aurochs",2,,"large",2,1
+"Axe Beak","Wizkids Pre-painted","Icons of the Realms - Snowbound",30,,"Axe Beak",2,53,"large",2,2
+"Badger","Wizkids Unpainted","Pathfinder Deep Cuts - Familiars",,,"Badger",2,,"tiny",0.75,1
+"Brown Bear","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",25,,"Brown Bear",2,,"large",2,3
+"Brown Bear","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 2",11,,"Brown Bear",2,,"large",2,1
+"Cat","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 1",4,,"Cat",2,,"tiny",0.75,1
+"Celestial Dire Badger","Wizards Pre-painted","Dungeons & Dragons - Deathknell",13,,"Giant Badger",2,,"medium",1,1
+"Clawfoot Raptor","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",23,,"Clawfoot Raptor",2,51,"medium",1,2
+"Crocodile","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",30,,"Crocodile",2,52,"large",2,1
+"Deinonychus","Wizkids Pre-painted","Pathfinder Battles - Dungeons Deep",3,,"Deinonychus",2,51,"medium",1,3
+"Dire Wolf","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 2",13,,"Dire Wolf",2,,"large",2,1
+"Dire Wolf","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",31,,"Dire Wolf",2,,"large",2,1
+"Elephant","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",43,,"Elephant",2,,"huge",3,1
+"Giant Ape","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 2",14,,"Giant Ape",2,,"huge",3,1
+"Giant Boar","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 1",1,,"Giant Boar",2,,"large",2,1
+"Giant Eagle","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 2",10,,"Giant Eagle",2,53,"large",2,1
+"Giant Fire Beetle","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",4,,"Giant Fire Beetle",2,,"small",0.75,1
+"Giant Goat","Wizkids Pre-painted","Icons of the Realms - Spell Effects Summoned Creatures 1",3,,"Giant Goat",2,,"large",2,1
+"Giant Octopus","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 1",6,,"Giant Octopus",2,52,"large",2,1
+"Giant Scorpion","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",29,,"Giant Scorpion",2,,"large",2,1
+"Giant Scorpion","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 1",5,,"Giant Scorpion",2,,"huge",3,1
+"Giant Shark","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 1",8,,"Giant Shark",2,52,"huge",3,1
+"Giant Toad","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 1",7,,"Giant Toad",2,,"large",2,1
+"Giant Wolf Spider","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 2",15,,"Giant Wolf Spider",2,,"large",2,1
+"Giant Wolf Spider","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",8,,"Giant Wolf Spider",2,,"medium",1,2
+"Killer Whale","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",30,,"Killer Whale",2,52,"huge",3,2
+"Knucklehead Trout","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",9,,"Knucklehead Trout",2,52,"small",0.75,4
+"Mammoth","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",32,,"Mammoth",2,,"huge",3,2
+"Mountain Goat","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",10,,"Mountain Goat",2,,"medium",1,2
+"Owl","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 2",9,,"Owl",2,53,"tiny",0.75,1
+"Pack Mule","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",11,,"Mule",2,,"medium",1,4
+"Pinacosaurus","Wizkids Pre-painted","Pathfinder Battles - City of Lost Omens",29,,"Ankylosaurus",2,51,"large",2,3
+"Polar Bear","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 2",12,,"Polar Bear",2,,"large",2,1
+"Polar Bear","Wizkids Pre-painted","Icons of the Realms - Snowbound",29,,"Polar Bear",2,,"large",2,1
+"Rat","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 1",3,,"Rat",2,,"tiny",0.75,1
+"Raven","Wizkids Pre-painted","Pathfinder Battles - Reign of Winter",3,,"Raven",2,53,"tiny",0.75,1
+"Reindeer","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",27,,"Reindeer",2,,"large",2,1
+"Sled Dogs","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",9,,"Dog",2,,"medium",1,1
+"Spinosaurus","3D Printed Unpainted","Clynche - Jurassic Tribe",,,"Spinosaurus",2,51,"huge",3,1
+"Stegosaurus","3D Printed Unpainted","Clynche - Jurassic Tribe",,,"Stegosaurus",2,51,"huge",3,1
+"Stirge","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",3,,"Stirge",2,,"tiny",0.75,2
+"Swarm of Bats","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",26,,"Bat",2,54,"large",2,1
+"Tiger","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wild Shape & Polymorph 1",2,,"Tiger",2,,"large",2,1
+"Tressym","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",5,,"Tressym",2,,"tiny",0.75,1
+"Triceratops","Wizkids Unpainted","Nolzur''s Marvelous Miniatures",,,"Triceratops",2,51,"huge",3,1
+"Tyrannosaurus Rex","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",30,,"Tyrannosaurus Rex",2,51,"huge",3,1
+"Warhorse","Wizkids Pre-painted","Icons of the Realms - Spell Effects Summoned Creatures 1",4,,"Horse",2,,"large",2,1
+"Wolf","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",20,,"Wolf",2,,"medium",1,3
+"Wolf","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",9,,"Wolf",2,,"medium",1,1
+"Bush Viper Quetzalcoatl","3D Printed Unpainted","LabradoriteWolf",,,"Couatl",3,,"huge",3,1
+"Couatl","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",37,,"Couatl",3,,"medium",1,1
+"Couatl","Wizkids Pre-painted","Icons of the Realms - Spell Effects Summoned Creatures 2",9,,"Couatl",3,,"medium",1,1
+"Couatl Invisible","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",37,,"Couatl",3,,"medium",1,1
+"Deva","Wizkids Pre-painted","Icons of the Realms - Snowbound",15,,"Deva",3,55,"medium",1,1
+"Emissary of Erebos","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",33,,"Emissary Animal",3,,"huge",3,1
+"Emissary of Purphoros","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",32,,"Emissary Animal",3,,"huge",3,2
+"Emissary of Thassa","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",27,,"Emissary Animal",3,,"large",2,2
+"Ki-rin","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",33,,"Ki-rin",3,,"huge",3,2
+"Pegasus","Wizkids Pre-painted","Icons of the Realms - Spell Effects Summoned Creatures 2",5,,"Pegasus",3,,"large",2,1
+"Pegasus","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",28,,"Pegasus",3,,"large",2,1
+"Planetar Angel","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",29,,"Planetar",3,55,"large",2,2
+"Radiant Idol","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",32,,"Radiant Idol",3,55,"large",2,2
+"Unicorn","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",27,,"Unicorn",3,,"large",2,2
+"Animated Armor","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",6,,"Animated Armor",4,58,"medium",1,3
+"Animated Door","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",24,,"Animated Door",4,58,"medium",1,2
+"Anvilwrought Raptor","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",4,,"Anvilwrought Raptor",4,,"small",0.75,2
+"Cadavar Collector","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",41,,"Cadavar Collector",4,57,"large",2,1
+"Chardalyn Pseudodragon","Wizkids Pre-painted","Icons of the Realms - Snowbound",20,,"Chardalyn Pseudodragon",4,,"tiny",0.75,2
+"Clay Golem","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",26,,"Clay Golem",4,57,"large",2,1
+"Demos Magen","Wizkids Pre-painted","Icons of the Realms - Snowbound",2,,"Magen",4,,"medium",1,2
+"Duergar Hammerer","Wizkids Pre-painted","Icons of the Realms - Snowbound",6,,"Duergar Hammerer",4,,"medium",1,4
+"Galvan Magen","Wizkids Pre-painted","Icons of the Realms - Snowbound",3,,"Magen",4,,"medium",1,2
+"Homunculus","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",17,,"Homunculus",4,,"medium",1,1
+"Hypnos Magen","Wizkids Pre-painted","Icons of the Realms - Snowbound",4,,"Magen",4,,"medium",1,2
+"Iron Cobra","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",7,,"Iron Cobra",4,,"medium",1,1
+"Iron Defender","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",4,,"Iron Defender",4,57,"medium",1,2
+"Iron Golem","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",28,,"Iron Golem",4,57,"large",2,1
+"Living Spell Cloud Kill","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",29,,"Living Spell",4,,"large",2,2
+"Living Spell Lightning Bolt","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",28,,"Living Spell",4,,"large",2,1
+"Marut","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",42,,"Marut",4,56,"large",2,1
+"Mickey the Flesh Golem","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",31,,"Flesh Golem",4,57,"large",2,2
+"Monodrone","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",10,,"Monodrone",4,56,"medium",1,1
+"Pentadrone","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",28,,"Pentadrone",4,56,"large",2,2
+"Quadrone","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",18,,"Quadrone",4,56,"medium",1,1
+"Shield Guardian","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",27,,"Shield Guardian",4,57,"large",2,1
+"Snow Golem","Wizkids Pre-painted","Icons of the Realms - Snowbound",28,,"Snow Golem",4,57,"large",2,2
+"Steel Predator","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",29,,"Steel Predator",4,,"large",2,2
+"Stone Golem","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",30,,"Stone Golem",4,57,"large",2,1
+"Tomb Tapper","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",42,,"Tomb Tapper",4,,"huge",3,1
+"Tridrone","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",35,,"Tridrone",4,56,"medium",1,1
+"Veneranda","Wizkids Pre-painted","Icons of the Realms - Snowbound",43,,"Helmed Horror",4,,"large",2,1
+"Warforged Titan","Wizkids Pre-painted","Icons of the Realms - Snowbound",34,,"Warforged Titan",4,,"huge",3,2
+"Adult Black Dragon","Wizkids Pre-painted","Icons of the Realms - Adult White Dragon",,,"Black Dragon",5,59,"huge",4,1
+"Adult Blue Dragon","Wizkids Pre-painted","Icons of the Realms - Adult White Dragon",,,"Blue Dragon",5,59,"huge",4,1
+"Adult Green Dragon","Wizkids Pre-painted","Icons of the Realms - Adult White Dragon",,,"Green Dragon",5,59,"huge",4,1
+"Adult Red Dragon","Wizkids Pre-painted","Icons of the Realms - Adult White Dragon",,,"Red Dragon",5,59,"huge",4,1
+"Adult White Dragon","Wizkids Pre-painted","Icons of the Realms - Adult White Dragon",,,"White Dragon",5,59,"huge",4,1
+"Ambush Drake","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",10,,"Ambush Drake",5,,"medium",1,2
+"Arveiaturace","Wizkids Pre-painted","Icons of the Realms - Gargantuan White Dragon Arveiaturace",,,"White Dragon",5,59,"gargantuan",8,1
+"Black Shadow Dragon","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",30,,"Shadow Dragon",5,,"large",2,2
+"Blue Dragon Wyrmling","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Blue Dragon Wyrmling",,,"Blue Dragon",5,59,"medium",1,1
+"Brass Dragon","Wizkids Pre-painted","Icons of the Realms - Elemental Evil",42,,"Brass Dragon",5,60,"large",2,1
+"Brass Dragon Wyrmling","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",23,,"Brass Dragon",5,60,"medium",1,2
+"Bronze Dragon","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",24,,"Bronze Dragon",5,60,"large",2,1
+"Bronze Dragon Wyrmling","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Bronze Dragon Wyrmling & Pile of Sea Found Treasure",,,"Bronze Dragon",5,60,"medium",1,1
+"Copper Dragon","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",32,,"Copper Dragon",5,60,"large",2,2
+"Copper Dragon Wyrmling","Wizkids Pre-painted","Icons of the Realms - Rage of Demons",41,,"Copper Dragon",5,60,"medium",1,1
+"Faerie Dragon","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",1,,"Faerie Dragon",5,62,"tiny",0.5,5
+"Faerie Dragon Invisible","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",1,,"Faerie Dragon",5,62,"tiny",0.5,1
+"Gold Dragon","Wizkids Pre-painted","Icons of the Realms - Rage of Demons",46,,"Gold Dragon",5,60,"large",2,1
+"Gold Dragon Wyrmling","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",38,,"Gold Dragon",5,60,"medium",1,1
+"Gold Dragon Wyrmling","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Gold Dragon Wyrmling & Half Eaten Treasure Pile",,,"Gold Dragon",5,60,"medium",1,1
+"Green Dragon","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",31,,"Green Dragon",5,59,"large",2,1
+"Green Dragon Wyrmling","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Green Dragon Wyrmling & Afflicted Elf",,,"Green Dragon",5,59,"medium",1,1
+"Guard Drake","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",22,,"Guard Drake",5,,"medium",1,1
+"Otto","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",26,,"Faerie Dragon",5,62,"large",2,1
+"Red Dragon Wyrmling","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",39,,"Red Dragon",5,59,"medium",1,1
+"Red Dragon Wyrmling","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Red Dragon Wyrmling",,,"Red Dragon",5,59,"medium",1,1
+"Silver Dragon Wyrmling","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Silver Dragon Wyrmling & Halfling",,,"Silver Dragon",5,60,"medium",1,1
+"White Dragon Wyrmling","Wizkids Pre-painted","Icons of the Realms - Snowbound",23,,"White Dragon",5,59,"medium",1,1
+"White Dragon Wyrmling","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",24,,"White Dragon",5,59,"medium",1,1
+"Wyvern","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",29,,"Wyvern",5,,"large",2,2
+"Young Blue Dragon","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",43,,"Blue Dragon",5,59,"large",3,1
+"Young Red Dragon","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",44,,"Red Dragon",5,59,"large",3,2
+"Young Silver Dragon","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Young Silver Dragon",,,"Silver Dragon",5,60,"large",3,1
+"Air Elemental","Wizkids Pre-painted","Icons of the Realms - Spell Effects Summoned Creatures 2",6,,"Air Elemental",6,,"large",2,1
+"Arclight Phoenix","Wizkids Pre-painted","Icons of the Realms - Guildmaster''s Guide to Ravnica",18,,"Arclight Phoenix",6,,"medium",1,1
+"Chwinga with Icicle Staff","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",16,,"Chwinga",6,,"tiny",0.75,2
+"Chwinga with Snowball","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",3,,"Chwinga",6,,"tiny",0.75,2
+"Dao","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",25,"A","Dao",6,64,"large",2,1
+"Dao","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",25,"B","Dao",6,64,"large",2,1
+"Dust Mephit","Wizkids Pre-painted","Icons of the Realms - Snowbound",11,,"Dust Mephit",6,65,"small",0.75,2
+"Earth Elemental","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",26,,"Earth Elemental",6,,"large",2,2
+"Earth Elemental","Wizkids Pre-painted","Icons of the Realms - Spell Effects Summoned Creatures 2",8,,"Earth Elemental",6,,"large",2,1
+"Fire Elemental","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",28,,"Fire Elemental",6,,"large",2,2
+"Fire Elemental","Wizkids Pre-painted","Icons of the Realms - Spell Effects Summoned Creatures 2",7,,"Fire Elemental",6,,"large",2,1
+"Flail Snail","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",38,,"Flail Snail",6,,"huge",3,1
+"Frost Salamander","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",33,,"Frost Salamander",6,,"huge",3,2
+"Gargoyle","Wizkids Pre-painted","Icons of the Realms - Snowbound",16,,"Gargoyle",6,,"medium",1,2
+"Ice Mephit","Wizkids Pre-painted","Icons of the Realms - Snowbound",12,,"Ice Mephit",6,65,"small",0.75,2
+"Marid","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",29,,"Marid",6,64,"large",2,2
+"Mud Mephit","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",2,"B","Mud Mephit",6,65,"small",0.75,2
+"The Brittle Maiden ","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",35,,"Auril",6,,"medium",1,1
+"Water Elemental","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",25,,"Water Elemental",6,,"large",2,3
+"Xorn","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Xorn",1,,"Xorn",6,,"medium",1,1
+"Xorn","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Xorn",2,,"Xorn",6,,"medium",1,1
+"Zephyr Hawk","Wizkids Pre-painted","Pathfinder Battles - Bestiary Unleashed",6,,"Phoenix",6,,"medium",1,1
+"Alseid","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",8,,"Alseid",7,87,"medium",1,3
+"Bheur Hag","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",22,,"Bheur Hag",7,66,"medium",1,1
+"Boggle","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",5,,"Boggle",7,,"small",0.75,4
+"Darkling","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",15,,"Darkling",7,,"small",0.75,1
+"Darkling","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",2,,"Darkling",7,,"small",0.75,4
+"Dryad","Wizkids Pre-painted","Icons of the Realms - Snowbound",18,,"Dryad",7,87,"medium",1,2
+"Dryad","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",11,,"Dryad",7,87,"medium",1,1
+"Dryad","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",7,,"Dryad",7,87,"medium",1,1
+"Dusk Hag","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",20,,"Dusk Hag",7,66,"medium",1,4
+"Fairy King","3D Printed Unpainted","Cast n Play",,,"Archfey",7,,"medium",1,1
+"Green Hag","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",17,,"Green Hag",7,66,"medium",1,1
+"Green Hag","Wizkids Pre-painted","Icons of the Realms - Spell Effects Summoned Creatures 2",10,,"Green Hag",7,66,"medium",1,1
+"Korred","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",11,,"Korred",7,,"small",0.75,8
+"Lampad","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",5,,"Lampad",7,87,"medium",1,2
+"Maud Chiselbone","Wizkids Pre-painted","Icons of the Realms - Snowbound",35,,"Green Hag",7,66,"medium",1,1
+"Meenlock","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",8,,"Meenlock",7,,"small",0.75,1
+"Naiad","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",15,,"Naiad",7,87,"medium",1,2
+"Oread","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",21,,"Oread",7,87,"medium",1,2
+"Quickling","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",3,,"Quickling",7,,"tiny",0.75,1
+"Redcap","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",1,,"Redcap",7,,"small",0.75,2
+"Satyr","Wizkids Pre-painted","Icons of the Realms - Spell Effects Summoned Creatures 2",11,,"Satyr",7,,"medium",1,1
+"Satyr","3D Printed Unpainted","Printed Obsession",,,"Satyr",7,,"medium",1,1
+"Satyr Firedancer","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",24,"A","Satyr",7,,"medium",1,1
+"Satyr Thornbearer","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",24,"B","Satyr",7,,"medium",1,1
+"Sea Hag","Wizkids Pre-painted","Icons of the Realms - Snowbound",39,,"Sea Hag",7,66,"medium",1,1
+"Sea Hag","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",22,,"Sea Hag",7,66,"medium",1,2
+"Valenar Horse","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",42,,"Valenar Animal",7,,"large",2,1
+"Abhorrent Overlord","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",41,,"Abhorrent Overlord",8,,"large",2,1
+"Abyssal Chicken","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",9,,"Abyssal Chicken",8,67,"tiny",0.75,2
+"Amnizu","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",36,,"Amnizu",8,68,"medium",1,1
+"Armanite","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",32,"A","Armanite",8,67,"large",2,2
+"Armanite","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",32,"B","Armanite",8,67,"large",2,1
+"Babau","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",2,,"Babau",8,67,"medium",1,5
+"Babau","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",14,,"Babau",8,67,"medium",1,2
+"Barghest","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",26,,"Barghest",8,,"large",2,2
+"Blue Abishai","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",39,,"Blue Abishai",8,68,"medium",1,1
+"Bulezau","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",19,,"Bulezau",8,67,"medium",1,3
+"Cambion","Wizkids Pre-painted","Icons of the Realms - Snowbound",13,,"Cambion",8,,"medium",1,2
+"Cambion Devil","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",13,,"Cambion",8,,"medium",1,1
+"Cambion Devil","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",17,,"Cambion",8,,"medium",1,2
+"Dhergoloth","Wizkids Pre-painted","Icons of the Realms - Snowbound",22,,"Dhergoloth",8,69,"medium",1,1
+"Erinyes","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",34,,"Erinyes",8,68,"medium",1,1
+"Glabrezu","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",25,,"Glabrezu",8,67,"large",2,3
+"Gnoll Fang of Yeenoghu","Wizkids Pre-painted","Icons of the Realms - Snowbound",19,,"Gnoll",8,,"medium",1,1
+"Goristro","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",31,,"Goristro",8,67,"huge",3,2
+"Haruman","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",39,,"Narzugon",8,68,"medium",1,1
+"Imp","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",2,,"Imp",8,68,"tiny",0.75,2
+"Incubus","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",36,,"Incubus",8,,"medium",1,1
+"Legion Barbed Devil","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",6,,"Barbed Devil",8,68,"medium",1,4
+"Legion Barbed Devil","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",16,,"Barbed Devil",8,68,"medium",1,2
+"Legion Bearded Devil","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",21,"B","Bearded Devil",8,68,"medium",1,1
+"Legion Bearded Devil","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",21,"A","Bearded Devil",8,68,"medium",1,1
+"Legion Bone Devil","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",42,,"Bone Devil",8,68,"large",2,2
+"Legion Chain Devil","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",33,,"Chain Devil",8,68,"medium",1,1
+"Legion Erinyes","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",23,,"Erinyes",8,68,"medium",1,2
+"Legion Horned Devil","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",30,,"Horned Devil",8,68,"large",2,2
+"Legion Ice Devil","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",29,,"Ice Devil",8,68,"large",2,3
+"Legion Imp","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",11,,"Imp",8,68,"tiny",0.75,3
+"Legion Spined Devil","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",3,,"Spined Devil",8,68,"small",0.75,2
+"Legion Spined Devil","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",15,,"Spined Devil",8,68,"small",0.75,5
+"Lemure","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",4,,"Lemure",8,68,"medium",1,3
+"Mad Maggie","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",37,,"Night Hag",8,,"medium",1,2
+"Mahadi","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",24,,"Rakshasa",8,,"medium",1,2
+"Marilith","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",41,,"Marilith",8,67,"large",2,1
+"Maw Demon","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",20,,"Maw Demon",8,67,"medium",1,2
+"Merregon","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",13,,"Merregon",8,68,"medium",1,2
+"Merregon","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",17,,"Merregon",8,68,"medium",1,4
+"Merrenoloth","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",10,,"Merrenoloth",8,69,"medium",1,3
+"Nalfeshnee","Wizkids Unpainted","Nolzur''s Marvelous Miniatures",,,"Nalfeshnee",8,67,"large",2,1
+"Narzugon","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",45,,"Narzugon",8,68,"medium",1,3
+"Narzugon and Nightmare","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",44,,"Nightmare",8,,"large",2,3
+"Night Hag","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",23,,"Night Hag",8,,"medium",1,2
+"Night Hag","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",9,,"Night Hag",8,,"medium",1,1
+"Nightmare","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",29,,"Nightmare",8,,"large",2,1
+"Nightmare","Wizkids Pre-painted","Icons of the Realms - Rage of Demons",31,,"Nightmare",8,,"large",2,1
+"Nupperibo","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",18,,"Nupperibo",8,68,"medium",1,2
+"Red Abishai","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",40,,"Red Abishai",8,68,"medium",1,1
+"Sibriex","Wizkids Pre-painted","Icons of the Realms - Boneyard",42,,"Sibriex",8,67,"huge",3,1
+"Ultroloth","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",34,,"Ultroloth",8,69,"medium",1,1
+"Vargouille","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",3,,"Vargouille",8,,"tiny",0.75,1
+"Vargouille","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",14,,"Vargouille",8,,"tiny",0.75,1
+"White Abishai","Wizkids Pre-painted","Icons of the Realms - Arkhan the Cruel and the Dark Order",6,,"White Abishai",8,68,"medium",1,1
+"Yagnoloth","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",28,,"Yagnoloth",8,69,"large",2,2
+"Yeenoghu''s Barlgura","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",27,,"Barlgura",8,67,"large",2,2
+"Yeenoghu''s Dretch","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",12,,"Dretch",8,67,"small",0.75,1
+"Yeenoghu''s Hezrou","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",26,,"Hezrou",8,67,"large",2,4
+"Yeenoghu''s Quasit","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",1,,"Quasit",8,67,"tiny",0.75,5
+"Zariel","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",43,,"Archdevil",8,68,"large",2,1
+"Cyclops","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",45,,"Cyclops",9,,"huge",3,2
+"Cyclops","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",26,"B","Cyclops",9,,"huge",3,1
+"Dire Troll","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",32,,"Dire Troll",9,70,"huge",3,2
+"Fire Giant","Wizkids Pre-painted","Pathfinder Battles - Legendary Adventures",28,,"Fire Giant",9,76,"large",2,1
+"Fomorian","Wizkids Pre-painted","Icons of the Realms - Snowbound",31,,"Fomorian",9,,"huge",3,1
+"Frost Giant","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",27,,"Frost Giant",9,77,"large",2,2
+"Frost Giant","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",31,,"Frost Giant",9,77,"huge",3,2
+"Frost Giant","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",32,,"Frost Giant",9,77,"huge",3,1
+"Half-Ogre","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",25,"B","Half-Ogre",9,71,"large",2,2
+"Hill Giant","Wizkids Pre-painted","Icons of the Realms - Snowbound",32,,"Hill Giant",9,74,"huge",3,2
+"Hill Giant","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",28,"B","Hill Giant",9,74,"huge",3,1
+"Hill Giant","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",28,"A","Hill Giant",9,74,"huge",3,1
+"Ice Troll","Wizkids Pre-painted","Icons of the Realms - Snowbound",26,,"Ice Troll",9,70,"large",2,2
+"Ogre Bolt Launcher","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",32,"B","Ogre",9,71,"large",2,2
+"Ogre Mage","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",25,,"Ogre Mage",9,71,"large",2,1
+"Storm Giant","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",44,,"Storm Giant",9,73,"huge",3,1
+"Venom Troll","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",30,,"Venom Troll",9,70,"large",2,1
+"Afflicted Elf","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Green Dragon Wyrmling & Afflicted Elf",,,"Elf",10,8,"medium",1,1
+"Akroan Hoplite","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",2,,"Human",10,14,"medium",1,3
+"Aldani","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",13,,"Aldani",10,,"medium",1,1
+"Apprentice Wizard","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",8,"A","Human",10,14,"medium",1,1
+"Apprentice Wizard","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",8,"B","Human",10,14,"medium",1,1
+"Arkhan the Cruel","Wizkids Pre-painted","icons of the Realms - Arkhan the Cruel and the Dark Order",5,,"Dragonborn",10,5,"medium",1,1
+"Arkhan''s Berserker","Wizkids Pre-painted","icons of the Realms - Arkhan the Cruel and the Dark Order",4,,"Human",10,14,"medium",1,1
+"Artus Cimber","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",22,,"Human",10,14,"medium",1,1
+"Asharra","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",23,,"Aarakocra",10,1,"medium",1,1
+"Autumn Eladrin","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",19,,"Eladrin",10,8,"medium",1,2
+"Batiri Goblin","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",15,,"Goblin",10,20,"small",0.75,1
+"Batiri Goblin","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",2,,"Goblin",10,20,"small",0.75,2
+"Berserker","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",17,,"Human",10,14,"medium",1,1
+"Bryn Lightfingers","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",21,,"Halfling",10,23,"small",0.75,3
+"Bugbear","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",12,,"Bugbear",10,21,"medium",1,2
+"Bugbear","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",17,,"Bugbear",10,21,"medium",1,1
+"Bugbear","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",21,,"Bugbear",10,21,"medium",1,2
+"Bullywug","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",5,,"Bullywug",10,3,"medium",1,2
+"Bullywug","Wizkids Pre-painted","Icons of the Realms - Snowbound",10,,"Bullywug",10,3,"medium",1,2
+"Bullywug Croaker","Wizkids Pre-painted","Icons of the Realms - Snowbound",21,,"Bullywug",10,3,"medium",1,2
+"Bullywug Royal","Wizkids Pre-painted","Icons of the Realms - Snowbound",42,,"Bullywug",10,3,"medium",1,1
+"Changeling","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",18,,"Changeling",10,4,"medium",1,2
+"Chardalyn Berserker","Wizkids Pre-painted","Icons of the Realms - Snowbound",1,,"Human",10,14,"medium",1,3
+"City Guard","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",4,"B","Human",10,14,"medium",1,2
+"City Watch","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",7,"A","Human",10,14,"medium",1,1
+"City Watch","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",7,"B","Human",10,14,"medium",1,2
+"Dalakos Crafter of Wonders","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",37,,"Triton",10,41,"medium",1,2
+"Derro","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",2,,"Derro",10,10,"small",0.75,2
+"Dragonborn Draconic Sorcerer","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",12,"B","Dragonborn",10,5,"medium",1,1
+"Dragonborn Fighter","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",20,"A","Dragonborn",10,5,"medium",1,1
+"Drow Archmage","Wizkids Pre-painted","Icons of the Realms - Rage of Demons",23,,"Drow",10,8,"medium",1,3
+"Drow Captain","Wizkids Pre-painted","Icons of the Realms - Rage of Demons",16,,"Drow",10,8,"medium",1,3
+"Drow Elite Warrior","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",6,,"Drow",10,8,"medium",1,3
+"Drow Scout","Wizkids Pre-painted","Icons of the Realms - Rage of Demons",13,,"Drow",10,8,"medium",1,3
+"Duergar Mind Master","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",6,,"Duergar",10,6,"medium",1,4
+"Dwarf Artificer","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",7,,"Dwarf",10,6,"medium",1,3
+"Dwarf Champion","Wizkids Pre-painted","Pathfinder Battles - Legendary Adventures",18,,"Dwarf",10,6,"medium",1,1
+"Dwarf Magewright","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",10,,"Dwarf",10,6,"medium",1,3
+"Elf Fighter","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",11,,"Elf",10,8,"medium",1,1
+"Falaster Fisk","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",8,,"Human",10,14,"medium",1,5
+"Fire Genasi Fighter","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",16,,"Fire Genasi",10,2,"medium",1,2
+"Firenewt","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",12,"B","Firenewt",10,11,"medium",1,1
+"Flind Trapper","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",18,,"Gnoll",10,9,"medium",1,3
+"Gloom Weaver","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",18,,"Shadar-Kai",10,8,"medium",1,2
+"Gnoll","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",3,,"Gnoll",10,9,"medium",1,3
+"Gnoll","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",7,,"Gnoll",10,9,"medium",1,1
+"Gnoll","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",20,"B","Gnoll",10,9,"medium",1,1
+"Gnoll","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",20,"A","Gnoll",10,9,"medium",1,2
+"Gnoll Hunter","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",24,"A","Gnoll",10,9,"medium",1,1
+"Gnoll Pack Leader","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",15,,"Gnoll",10,9,"medium",1,2
+"Gnome Inquisitive","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",11,,"Gnome",10,24,"small",0.75,2
+"Gnome Wizard","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",11,"A","Gnome",10,24,"small",0.75,1
+"Gnome Wizard","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",11,"B","Gnome",10,24,"small",0.75,1
+"Goblin","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",3,,"Goblin",10,20,"small",0.75,4
+"Goblin","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",6,,"Goblin",10,20,"small",0.75,1
+"Goblin Fighter","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",6,,"Goblin",10,20,"small",0.75,1
+"Goliath Barbarian","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",8,,"Goliath",10,17,"medium",1,2
+"Goliath Fighter","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",1,,"Goliath",10,17,"medium",1,3
+"Goliath Fighter","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",14,,"Goliath",10,17,"medium",1,2
+"Half Black Dragon Lord","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",33,,"Half-dragon",10,,"medium",1,1
+"Half-orc Barbarian","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",19,,"Half-orc",10,15,"medium",1,1
+"Halfling","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Silver Dragon Wyrmling & Halfling",,,"Halfling",10,23,"small",0.75,1
+"Halfling Rogue Invisible","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",4,,"Halfling",10,23,"small",0.75,1
+"Hobgoblin","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",18,"B","Hobgoblin",10,46,"medium",1,1
+"Hobgoblin Sharpshooter","Wizkids Pre-painted","Pathfinder Battles - Legendary Adventures",13,,"Hobgoblin",10,46,"medium",1,1
+"Hommet Shaw","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",22,,"Human",10,14,"medium",1,1
+"Hommet Shaw Invisible","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",22,,"Human",10,14,"medium",1,1
+"Human Artificer","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",22,,"Human",10,14,"medium",1,2
+"Human Hunter","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",2,,"Human",10,14,"medium",1,2
+"Human Monk","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",10,,"Human",10,14,"medium",1,2
+"Human Paladin","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",13,,"Human",10,14,"medium",1,4
+"Human Paladin","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",8,,"Human",10,14,"medium",1,1
+"Human Storm Sorcerer","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",24,,"Human",10,14,"medium",1,1
+"Human Sun Soul Monk","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",11,,"Human",10,14,"medium",1,1
+"Human Trapper","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",15,,"Human",10,14,"medium",1,1
+"Human Warlock of the Fiend","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",20,"A","Human",10,14,"medium",1,1
+"Human Wizard","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",17,,"Human",10,14,"medium",1,1
+"Human Zhentarim Bandit","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",11,,"Human",10,14,"medium",1,1
+"Illydia Maethellyn","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",24,,"Elf",10,8,"medium",1,3
+"Jackalwere","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Jackalwere",1,,"Jackalwere",10,45,"medium",1,1
+"Jackalwere","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Jackalwere",2,,"Jackalwere",10,45,"medium",1,1
+"Jarhild Stoneforge","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",5,,"Dwarf",10,6,"medium",1,1
+"Kalashtar","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",5,,"Kalashtar",10,27,"medium",1,3
+"Kalashtar","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",6,,"Kalashtar",10,27,"medium",1,2
+"Kobold","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",2,,"Kobold",10,29,"small",0.75,2
+"Kobold","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",5,,"Kobold",10,29,"small",0.75,2
+"Kobold Inventor","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",2,,"Kobold",10,29,"small",0.75,3
+"Kobold Mountaineer","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",12,,"Kobold",10,29,"small",0.75,1
+"Kobold Scale Sorcerer","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",24,"A","Kobold",10,29,"small",0.75,1
+"Kraken Priest","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",12,,"Kraken Priest",10,14,"medium",1,1
+"Krull","Wizkids Pre-painted","icons of the Realms - Arkhan the Cruel and the Dark Order",2,,"Tortle",10,13,"medium",1,1
+"Kuo-toa","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",8,,"Kuo-toa",10,30,"medium",1,1
+"Kuo-toa Whip","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",17,,"Kuo-toa",10,30,"medium",1,2
+"Larethar Gulgrin","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",6,,"Dwarf",10,6,"medium",1,4
+"Leonin Iconoclast","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",23,,"Leonin",10,31,"medium",1,3
+"Leonin Swiftclaw","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",10,,"Leonin",10,31,"medium",1,2
+"Lightfoot Halfling Rogue Invisible","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",51,,"Halfling",10,23,"small",0.75,1
+"Lizardfolk","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",9,,"Lizardfolk",10,32,"medium",1,2
+"Lizardfolk","Wizkids Pre-painted","Icons of the Realms - Snowbound - Pre-order Bonus",,,"Lizardfolk",10,32,"medium",1,2
+"Lizardfolk Shaman","Wizkids Pre-painted","Icons of the Realms - Snowbound - Pre-order Bonus",,,"Lizardfolk",10,32,"medium",1,1
+"Locathah","Wizkids Pre-painted","Icons of the Realms - Snowbound",25,,"Locathah",10,33,"medium",1,2
+"Manshoon","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",37,,"Human",10,14,"medium",1,1
+"Meazel","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",13,,"Meazel",10,,"medium",1,4
+"Minsc and Boo","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",40,,"Human",10,14,"medium",1,1
+"Minsc and Boo Invisible","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",40,,"Human",10,14,"medium",1,1
+"Nameless One","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",40,,"Human",10,14,"medium",1,1
+"Nameless One Invisible","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",40,,"Human",10,14,"medium",1,1
+"Nass Lantomir","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",38,,"Human",10,14,"medium",1,2
+"Noble","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",5,"A","Human",10,14,"medium",1,1
+"Oracle","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",3,,"Human",10,14,"medium",1,2
+"Orc","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",7,,"Orc",10,22,"medium",1,2
+"Orc","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",8,"A","Orc",10,22,"medium",1,1
+"Orc","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",8,"B","Orc",10,22,"medium",1,1
+"Orc","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",16,,"Orc",10,22,"medium",1,1
+"Orc Brawler","Wizkids Pre-painted","Pathfinder Battles - Legendary Adventures",9,,"Orc",10,22,"medium",1,1
+"Orc Claw of Luthic","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",5,,"Orc",10,22,"medium",1,2
+"Orc Fighter","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",10,,"Orc",10,22,"medium",1,2
+"Orog Ranger","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",7,,"Orc",10,22,"medium",1,2
+"Oyaminartok the Goliath Werebear","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",26,,"Werebear",10,45,"large",2,2
+"Qawasha","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",7,"A","Human",10,14,"medium",1,2
+"Quaggoth","Wizkids Pre-painted","Icons of the Realms - Snowbound",24,,"Quaggoth",10,35,"medium",1,1
+"Reghed Nomad with Cage","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",1,,"Human",10,14,"medium",1,2
+"Reghed Nomad with Spear","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",14,,"Human",10,14,"medium",1,3
+"Renaer Neverember","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",19,,"Human",10,14,"medium",1,1
+"Reya Mantlemorn","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",7,,"Human",10,14,"medium",1,3
+"Sahuagin","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",13,,"Sahuagin",10,36,"medium",1,1
+"Scarla Truestrike","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",22,,"Halfling",10,23,"small",0.75,2
+"Sea Spawn","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",23,,"Sea Spawn",10,,"medium",1,1
+"Shadow Dancer","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",23,,"Shadar-Kai",10,8,"medium",1,3
+"Shifter Artificer","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",11,,"Shifter",10,38,"medium",1,2
+"Shifter Druid","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",19,,"Shifter",10,38,"medium",1,2
+"Shifter Rogue","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",3,,"Shifter",10,38,"medium",1,2
+"Shifter Rogue","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",16,,"Shifter",10,38,"medium",1,1
+"Skulk","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",12,,"Skulk",10,,"medium",1,1
+"Snow Goblin","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",11,,"Goblin",10,20,"small",0.75,2
+"Spring Eladrin","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",18,,"Eladrin",10,8,"medium",1,1
+"Stona Captain of the Pyleas","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",20,,"Human",10,14,"medium",1,2
+"Stoutheart Female Halfling Bard","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",2,,"Halfling",10,23,"small",0.75,1
+"Sun Elf Guard","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",9,,"Elf",10,8,"medium",1,1
+"Sylvira Savikas","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",34,,"Tiefling",10,19,"medium",1,1
+"Tarkanan Assassin","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",8,,"Human",10,14,"medium",1,2
+"Thayan Apprentice","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",20,,"Human",10,14,"medium",1,3
+"The Black Viper","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",23,,"Human",10,14,"medium",1,1
+"The Lord of Blades","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",37,,"Warforged",10,42,"medium",1,1
+"Thug","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",2,,"Human",10,14,"medium",1,3
+"Thug Leader","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",15,,"Human",10,14,"medium",1,1
+"Tiefling Battlemaster","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",7,,"Tiefling",10,19,"medium",1,2
+"Tiefling Warlock","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",35,,"Tiefling",10,19,"medium",1,1
+"Tortle","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",6,,"Tortle",10,13,"medium",1,3
+"Tortle Druid","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",16,,"Tortle",10,13,"medium",1,1
+"Trex the Winged Kobold","Wizkids Pre-painted","Icons of the Realms - Snowbound",40,,"Kobold",10,29,"small",0.75,1
+"Triton Master of Waves","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",22,,"Triton",10,41,"medium",1,1
+"Veteran","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",3,,"Human",10,14,"medium",1,1
+"Veteran Leader","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",14,,"Human",10,14,"medium",1,1
+"Warforged","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",14,,"Warforged",10,42,"medium",1,2
+"Warforged","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",1,,"Warforged",10,42,"medium",1,3
+"Werebear","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",20,"A","Werebear",10,45,"medium",1,1
+"Wereboar","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",22,"B","Wereboar",10,45,"medium",1,2
+"Winter Eladrin","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",38,,"Eladrin",10,8,"medium",1,2
+"Xardorok Sunblight","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",37,,"Duergar",10,6,"medium",1,1
+"Yuan-ti Broodguard","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",24,,"Yuan-ti Broodguard",10,43,"medium",1,1
+"Ziraj the Hunter","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",9,,"Half-orc",10,15,"medium",1,2
+"Abominable Yeti","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",31,,"Yeti",11,,"huge",3,2
+"Adult Remorhaz","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",42,,"Remorhaz",11,,"huge",3,1
+"Androsphinx","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",43,,"Sphinx",11,80,"large",2,1
+"Ankheg","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",31,,"Ankheg",11,,"large",2,2
+"Arasta of the Endless Web","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",44,,"Arasta",11,80,"huge",3,1
+"Banderhobb","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",25,,"Banderhobb",11,,"large",2,3
+"Basilisk","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",6,,"Basilisk",11,,"medium",1,5
+"Behir","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",27,,"Behir",11,,"huge",3,1
+"Bulette","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",32,,"Bulette",11,,"large",2,2
+"Catoblepas","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",30,,"Catoblepas",11,,"large",2,2
+"Cave Fisher","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",10,,"Cave Fisher",11,,"medium",1,2
+"Centaur","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",31,,"Centaur",11,80,"large",2,2
+"Centaur Ranger","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",17,,"Centaur",11,80,"medium",1,3
+"Chango","Wizkids Pre-painted","Icons of the Realms - Arkhan the Cruel and the Dark Order",1,,"Manticore",11,80,"large",2,1
+"Chimera","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",28,,"Chimera",11,80,"large",2,3
+"Chitine","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",4,,"Chitine",11,80,"small",0.75,1
+"Choldrith","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",20,,"Choldrith",11,80,"medium",1,4
+"Chromanticore","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",39,,"Manticore",11,80,"large",2,2
+"Crag Cat","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",25,,"Crag Cat",11,,"large",2,2
+"Death Dog","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",9,,"Death Dog",11,,"medium",1,3
+"Displacer Beast","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",25,,"Displacer Beast",11,,"large",2,1
+"Doppleganger","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",15,,"Doppleganger",11,,"medium",1,1
+"Fleecemane Lion","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",26,,"Nyx Creature",11,,"large",2,2
+"Girallon","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",31,,"Girallon",11,,"large",2,1
+"Gorgon","Wizkids Unpainted","Nolzur''s Marvelous Miniatures",,,"Gorgon",11,,"large",2,1
+"Gray Render","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",27,,"Gray Render",11,,"large",2,3
+"Grick","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",36,,"Grick",11,,"medium",1,3
+"Griffon","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",25,,"Griffon",11,80,"large",2,4
+"Griffon","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Griffon",,,"Griffon",11,80,"large",2,1
+"Griffon Cavalry","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dragon Heist",42,,"Griffon",11,80,"large",2,1
+"Griffon Hatchling","Wizkids Pre-painted","Icons of the Realms - Snowbound",8,,"Griffon",11,80,"small",0.75,2
+"Gynosphinx","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",41,,"Sphinx",11,80,"large",2,1
+"Harpy","Wizkids Pre-painted","Icons of the Realms - Tyranny of Dragons",39,,"Harpy",11,80,"medium",1,2
+"Hippogriff","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",27,,"Hippogriff",11,80,"large",2,1
+"Juvenile Kraken","Wizkids Pre-painted","Icons of the Realms - Boneyard",33,,"Kraken",11,,"huge",3,2
+"Kamadan","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",27,,"Kamadan",11,80,"large",2,1
+"Leucrotta","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",28,,"Leucrotta",11,80,"large",2,1
+"Medusa","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",16,,"Medusa",11,80,"medium",1,2
+"Medusa","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",18,,"Medusa",11,80,"medium",1,1
+"Merrow","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",26,"B","Merrow",11,,"large",2,1
+"Mimic (Door)","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",21,,"Mimic",11,78,"medium",1,3
+"Minotaur","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",43,,"Minotaur",11,80,"large",2,1
+"Minotaur","Wizkids Pre-painted","Pathfinder Battles - City of Lost Omens",28,,"Minotaur",11,80,"large",2,3
+"Minotaur Artillery","Wizkids Pre-painted","Pathfinder Battles - Maze of Death",25,,"Minotaur",11,80,"large",2,1
+"Minotaur Fighter","Wizkids Pre-painted","icons of the Realms - Guildmaster''s Guide to Ravnica",46,,"Minotaur",11,80,"medium",1,2
+"Minotaur Fighter","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",19,,"Minotaur",11,80,"medium",1,4
+"Nyx-Fleece Ram","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",12,,"Nyx Creature",11,,"medium",1,4
+"Phase Spider","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",28,,"Phase Spider",11,,"large",2,1
+"Piercer","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",19,,"Piercer",11,,"medium",1,1
+"Pterafolk","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",28,,"Pterafolk",11,80,"large",2,1
+"Purple Worm","Wizkids Pre-painted","Icons of the Realms - Purple Worm",,,"Purple Worm",11,,"gargantuan",4,1
+"Roc","3D Printed Unpainted","Artisan Guild",,,"Roc",11,,"gargantuan",5,1
+"Roper","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Roper",,,"Roper",11,,"large",2,1
+"Rust Monster","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Rust Monster",,,"Rust Monster",11,,"medium",1,1
+"Shadow Mastiff","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",24,,"Shadow Mastiff",11,,"medium",1,1
+"Snowy Owlbear","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",28,,"Owlbear",11,80,"large",2,1
+"Spitting Mimic","Wizkids Pre-painted","Icons of the Realms - Snowbound",27,,"Mimic",11,78,"large",2,2
+"Su-Monster","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",11,,"Su-Monster",11,,"medium",1,2
+"The Cold Crone","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",34,,"Auril",11,80,"medium",1,1
+"Thought-Render Lamia","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",31,,"Lamia",11,80,"large",2,1
+"Torogar Steelfist","Wizkids Pre-painted","Icons of the Realms - Arkhan the Cruel and the Dark Order",3,,"Minotaur",11,80,"large",2,1
+"Trapper","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",31,,"Trapper",11,,"large",2,1
+"Two-Headed Cerberus","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",11,,"Cerberus",11,,"medium",1,4
+"Winter Wolf","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",29,,"Winter Wolf",11,,"large",2,1
+"Worg","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",31,,"Worg",11,,"large",2,2
+"Yeti Tyke","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",5,,"Yeti",11,,"small",0.75,1
+"Yuna-ti Anathema","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",31,,"Yuan-ti Anathema",11,79,"huge",3,1
+"Zorbo","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",4,,"Zorbo",11,,"small",0.75,2
+"Black Pudding","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 2",25,,"Black Pudding",12,,"large",2,2
+"Elder Black Pudding","Wizkids Pre-painted","Icons of the Realms - Boneyard",31,,"Black Pudding",12,,"huge",3,1
+"Gelatinous Cube","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",30,,"Gelatinous Cube",12,,"large",2,1
+"Gray Ooze","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",12,,"Gray Ooze",12,,"medium",1,1
+"Ochre Jelly","Wizkids Pre-painted","Icons of the Realms - Boneyard",27,,"Ochre Jelly",12,,"large",2,2
+"Psychic Gray Ooze","Wizkids Pre-painted","Icons of the Realms - Snowbound",7,,"Psychic Gray Ooze",12,,"medium",1,2
+"Awakened Tree","Wizkids Pre-painted","Icons of the Realms - Snowbound",45,,"Tree",13,,"huge",3,1
+"Corpse Flower","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",30,,"Corpse Flower",13,,"large",2,2
+"Gas Spore","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",40,,"Gas Spore",13,,"large",2,2
+"Mantrap","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",30,,"Mantrap",13,,"large",2,2
+"Mushroom Men","Bones Unpainted","Dark Heaven Miniatures - Mushroom Men",1,,"Myconid",13,81,"medium",1,1
+"Mushroom Men","Bones Unpainted","Dark Heaven Miniatures - Mushroom Men",2,,"Myconid",13,81,"medium",1,1
+"Mushroom Men","Bones Unpainted","Dark Heaven Miniatures - Mushroom Men",3,,"Myconid",13,81,"medium",1,1
+"Myconid Adult","Wizkids Pre-painted","Icons of the Realms - Snowbound",9,,"Myconid",13,81,"medium",1,1
+"Myconid Adult","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Myconid Adults",1,,"Myconid",13,81,"medium",1,1
+"Myconid Adult","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Myconid Adults",2,,"Myconid",13,81,"medium",1,1
+"Myconid Sprout","Wizkids Pre-painted","Icons of the Realms - Snowbound",17,,"Myconid",13,81,"small",0.75,1
+"Needle Blight","Wizkids Pre-painted","Icons of the Realms - Spell Effects Summoned Creatures 1",1,,"Needle Blight",13,,"medium",1,1
+"Shambling Mound","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",43,,"Shambling Mound",13,,"large",2,1
+"Twig Blight","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",3,,"Twig Blight",13,,"small",0.75,2
+"Vegepygmy","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",3,,"Vegepygmy",13,,"small",0.75,1
+"Vegepygmy Chief","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",14,,"Vegepygmy",13,,"small",0.75,1
+"Vine Blight","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",13,,"Vine Blight",13,,"medium",1,2
+"Wood Woad","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",9,,"Wood Woad",13,,"medium",1,2
+"Atropal","Wizkids Pre-painted","Icons of the Realms - Boneyard",45,,"Atropal",14,,"huge",3,1
+"Avatar of Death","Wizkids Pre-painted","Icons of the Realms - Boneyard",23,,"Avatar of Death",14,,"medium",1,3
+"Banshee","Wizkids Pre-painted","Icons of the Realms - Rage of Demons",23,,"Banshee",14,,"medium",1,1
+"Barnabus the Flameskull","Wizkids Pre-painted","Icons of the Realms - Baldur''s Gate: Descent Into Avernus",5,,"Flameskull",14,,"tiny",0.75,8
+"Bodak","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",1,,"Bodak",14,,"medium",1,3
+"Bone Naga","Wizkids Pre-painted","Icons of the Realms - Boneyard",40,,"Skeleton",14,82,"large",2,1
+"Boneclaw","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",27,,"Boneclaw",14,,"large",2,2
+"Coldlight Walker","Wizkids Pre-painted","Icons of the Realms - Snowbound",14,,"Coldlight Walker",14,,"medium",1,1
+"Crawling Claw","Wizkids Pre-painted","Icons of the Realms - Boneyard",3,,"Crawling Claw",14,,"tiny",0.75,2
+"Death Tyrant","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",44,,"Beholder",14,,"large",2,1
+"Deathlock","Wizkids Pre-painted","Icons of the Realms - Boneyard",22,,"Deathlock",14,,"medium",1,1
+"Dread Warrior","Wizkids Pre-painted","Icons of the Realms - Boneyard",8,,"Dread Warrior",14,,"medium",1,2
+"Drowned Assassin","Wizkids Pre-painted","Icons of the Realms - Boneyard",11,,"Drowned One",14,,"medium",1,3
+"Eidolon Possessed Sacred Statue","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",43,,"Eidolon",14,,"large",2,1
+"Garmr Style B","3D Printed Unpainted","Cast n Play",,,"Dread Wolf",14,,"huge",3,1
+"Garmr Style C","3D Printed Unpainted","Cast n Play",,,"Dread Wolf",14,,"huge",3,1
+"Ghast","Wizkids Pre-painted","Icons of the Realms - Boneyard",6,,"Ghast",14,,"medium",1,2
+"Ghost","Wizkids Pre-painted","Icons of the Realms - Boneyard",18,,"Ghost",14,,"medium",1,2
+"Ghostblade Eidolon","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",18,,"Eidolon",14,,"medium",1,1
+"Ghoul","Wizkids Pre-painted","Icons of the Realms - Boneyard",7,,"Ghoul",14,,"medium",1,1
+"Hill Giant Skeleton","Wizkids Pre-painted","Icons of the Realms - Boneyard",32,,"Skeleton",14,82,"huge",3,1
+"Karrnathi Skeleton","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",15,,"Skeleton",14,82,"medium",1,2
+"Karrnathi Skeleton","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",2,,"Skeleton",14,82,"medium",1,2
+"Karrnathi Zombie","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",9,,"Zombie",14,83,"medium",1,2
+"Kobold Vampire Spawn","Wizkids Pre-painted","Icons of the Realms - Icewind Dale: Rime of the Frostmaiden",13,,"Vampire",14,84,"small",0.75,2
+"Lady Vol","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",33,,"Lich",14,,"medium",1,1
+"Lich","Wizkids Pre-painted","Icons of the Realms - Boneyard",35,,"Lich",14,,"medium",1,1
+"Minotaur Skeleton","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",32,"A","Skeleton",14,82,"large",2,1
+"Minotaur Skeleton","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",32,"B","Skeleton",14,82,"large",2,2
+"Mummy","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",10,,"Mummy",14,85,"medium",1,1
+"Mummy","Wizkids Pre-painted","Icons of the Realms - Boneyard",20,,"Mummy",14,85,"medium",1,1
+"Mummy Lord","Wizkids Pre-painted","Icons of the Realms - Boneyard",36,,"Mummy",14,85,"medium",1,1
+"Ogre Zombie","Wizkids Pre-painted","Icons of the Realms - Boneyard",28,,"Zombie",14,83,"large",2,2
+"Phantom Warrior","Wizkids Pre-painted","Icons of the Realms - Boneyard",13,,"Phantom Warrior",14,,"medium",1,2
+"Poltergeist","Wizkids Pre-painted","Icons of the Realms - Boneyard",9,,"Poltergeist",14,,"medium",1,1
+"Returned Palamnite","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",1,,"Returned",14,,"medium",1,5
+"Returned Sentry","Wizkids Pre-painted","Icons of the Realms - Mythic Odysseys of Theros",14,,"Returned",14,,"medium",1,4
+"Shadow","Wizkids Pre-painted","Icons of the Realms - Waterdeep: Dungeon of the Mad Mage",10,,"Shadow",14,,"medium",1,2
+"Skeletal Alchemist","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",7,,"Skeleton",14,82,"medium",1,2
+"Skeletal Sentinel","Wizkids Pre-painted","Icons of the Realms - Snowbound",5,,"Skeleton",14,82,"medium",1,1
+"Skeleton","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",16,"A","Skeleton",14,82,"medium",1,1
+"Skeleton","Wizkids Pre-painted","Icons of the Realms - Boneyard",15,,"Skeleton",14,82,"medium",1,1
+"Skeleton","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",12,,"Skeleton",14,82,"medium",1,1
+"Skeleton","Wizkids Pre-painted","Icons of the Realms - Boneyard",2,,"Skeleton",14,82,"medium",1,1
+"Skeleton","Wizkids Pre-painted","Icons of the Realms - Boneyard",5,,"Skeleton",14,82,"small",0.75,1
+"Skeleton Key","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",6,"C","Skeleton",14,82,"medium",1,1
+"Skull Lord","Wizkids Pre-painted","Icons of the Realms - Volo''s & Mordenkainen''s Foes",21,"A","Skull Lord",14,,"medium",1,1
+"Spawn of Kyuss","Wizkids Pre-painted","Icons of the Realms - Boneyard",10,,"Zombie",14,83,"medium",1,1
+"Specter","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",7,,"Specter",14,,"medium",1,2
+"Specter","Wizkids Pre-painted","Icons of the Realms - Boneyard",16,,"Specter",14,,"medium",1,1
+"Strahd Zombie","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",8,,"Zombie",14,83,"medium",1,1
+"Sword Wraith Warrior","Wizkids Pre-painted","Icons of the Realms - Boneyard",24,,"Sword Wraith Warrior",14,,"medium",1,1
+"Undying Councilor","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",34,,"Undying",14,,"medium",1,1
+"Undying Soldier","Wizkids Pre-painted","Icons of the Realms - Eberron: Rising from the Last War",12,,"Undying",14,,"medium",1,2
+"Valindra Shadowmantle","Wizkids Pre-painted","Icons of the Realms - Tomb of Annihilation",18,,"Lich",14,,"medium",1,2
+"Vampire","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",23,,"Vampire",14,84,"medium",1,2
+"Vampire Spawn","Wizkids Pre-painted","Icons of the Realms - Boneyard",12,,"Vampire",14,84,"medium",1,1
+"Vampire Spawn","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",10,"A","Vampire",14,84,"medium",1,2
+"Vampire Spawn","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 3",10,"B","Vampire",14,84,"medium",1,1
+"Vampire Spellcaster","Wizkids Pre-painted","Icons of the Realms - Boneyard",17,,"Vampire",14,84,"medium",1,1
+"Vampiric Mist","Wizkids Pre-painted","Icons of the Realms - Fangs & Talons",22,,"Vampire",14,84,"medium",1,2
+"Will-O-Wisp","Wizkids Pre-painted","Icons of the Realms - Boneyard",4,,"Will-O-Wisp",14,,"tiny",0.75,3
+"Will-O-Wisps","Wizkids Pre-painted","Icons of the Realms - Monster Menagerie 1",3,,"Will-O-Wisp",14,,"tiny",0.75,1
+"Wraith","Wizkids Pre-painted","Icons of the Realms - Boneyard",19,,"Wraith",14,,"medium",1,1
+"Zombie","Wizkids Pre-painted","Icons of the Realms - Boneyard",1,,"Zombie",14,83,"medium",1,2
+"Zombie","Wizkids Pre-painted","Icons of the Realms - Boneyard",14,,"Zombie",14,83,"medium",1,1
+"Pile of Rusted Items","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Rust Monster",,,"Item",15,,"medium",1,1
+"Treasure","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Blue Dragon Wyrmling",,,"Item",15,,"medium",1,1
+"Treasure","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Gold Dragon Wyrmling & Half Eaten Treasure Pile",,,"Item",15,,"medium",1,1
+"Treasure","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Bronze Dragon Wyrmling & Pile of Sea Found Treasure",,,"Item",15,,"medium",1,1
+"Treasure","Wizkids Unpainted","Nolzur''s Marvelous Miniatures - Red Dragon Wyrmling",,,"Item",15,,"medium",1,1
+"Arcane Eye","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",7,,"Spell",16,,"small",0.75,1
+"Arcane Gate","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",,,"Spell",16,,"large",2,1
+"Bigby''s Clenched Fist","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",3,"A","Spell",16,,"medium",1,1
+"Bigby''s Forceful/Interposing Hand","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",3,"B","Spell",16,,"medium",1,1
+"Bigby''s Grasping Hand","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",3,"C","Spell",16,,"medium",1,1
+"Bones of the Earth","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",,,"Spell",16,,"medium",1,6
+"Cloud of Daggers","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",4,,"Spell",16,,"medium",1,1
+"Create Bonfire","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",,,"Spell",16,,"medium",1,1
+"Dancing Lights","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",6,,"Spell",16,,"medium",1,1
+"Dancing Lights","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",10,,"Spell",16,,"tiny",0.75,4
+"Elemental Weapon Acid","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",7,"B","Spell",16,,"small",0.75,1
+"Elemental Weapon Cold","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",7,"A","Spell",16,,"small",0.75,1
+"Elemental Weapon Fire","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",7,"C","Spell",16,,"small",0.75,1
+"Elemental Weapon Lightning","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",7,"D","Spell",16,,"small",0.75,1
+"Flaming Sphere","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",1,,"Spell",16,,"medium",1,1
+"Forcecage (Box)","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",,,"Spell",16,,"large",2,1
+"Grasping Vine","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",9,,"Spell",16,,"medium",1,1
+"Guardian of Faith","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",8,,"Spell",16,,"large",2,1
+"Healing Spirit (Beast)","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",3,,"Spell",16,,"small",0.75,1
+"Healing Spirit (Fey)","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",4,,"Spell",16,,"small",0.75,1
+"Leomund''s Secret Chest","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",,,"Spell",16,,"medium",1,1
+"Leomund''s Tiny Hut","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",,,"Spell",16,,"gargantuan",4,1
+"Mage Hand","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",5,,"Spell",16,,"small",0.75,1
+"Maximilian''s Earthen Grasp","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",5,,"Spell",16,,"medium",1,1
+"Mordenkainen''s Faithful Hound","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",11,,"Spell",16,,"medium",1,1
+"Mordenkainen''s Sword","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",6,,"Spell",16,,"small",0.75,1
+"Phantom Steed","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",10,,"Spell",16,,"large",2,1
+"Rope Trick","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Mighty Conjurations",,,"Spell",16,,"medium",1,1
+"Spiritual Weapon Mace","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",11,"A","Spell",16,,"medium",1,1
+"Spiritual Weapon Warhammer","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",11,"B","Spell",16,,"medium",1,1
+"Tenser''s Floating Disc","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",2,,"Spell",16,,"medium",1,1
+"Unseen Servant","Wizkids Pre-painted","Icons of the Realms - Spell Effects: Arcane Fury & Divine Might",8,,"Spell",16,,"medium",1,1
+"Wall of Fire","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wall of Fire & Wall of Ice",,,"Spell",16,,"large",2,6
+"Wall of Ice","Wizkids Pre-painted","Icons of the Realms - Spell Effects Wall of Fire & Wall of Ice",,,"Spell",16,,"large",2,6
